@@ -60,10 +60,10 @@ public class CatalogActivity extends AppCompatActivity {
         //Create a ContentValues object where column names are the keys, and misc schwag's item
         //attributes are it's values.
         ContentValues values = new ContentValues();
-        values.put(TitleEntry.COLUMN_PRODUCT_NAME, "Superman #1");
-        values.put(TitleEntry.COLUMN_SUPPLIER, "Comic World");
-        values.put(TitleEntry.COLUMN_SUPPLIER_PH, 5551234);
-        values.put(TitleEntry.COLUMN_PRICE, 19999);
+        values.put(TitleEntry.COLUMN_PRODUCT_NAME, "Fun With Knots");
+        values.put(TitleEntry.COLUMN_SUPPLIER, "Ropebunny Books");
+        values.put(TitleEntry.COLUMN_SUPPLIER_PH, 8675309);
+        values.put(TitleEntry.COLUMN_PRICE, 269);
         values.put(TitleEntry.COLUMN_QTY, 1);
         values.put(TitleEntry.COLUMN_SECTION, 2);
 

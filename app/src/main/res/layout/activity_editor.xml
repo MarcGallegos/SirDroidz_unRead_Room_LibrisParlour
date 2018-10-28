@@ -5,7 +5,7 @@
     android:layout_width="match_parent" android:layout_height="match_parent"
     android:padding="@dimen/activity_margin"
     tools:context=".EditorActivity"
-    android:background="#ffcccc">
+    android:background="#808080">
 
     <!-- Category Overview -->
     <LinearLayout
@@ -91,7 +91,7 @@
                 android:layout_height="48dp"
                 android:paddingRight="16dp"
                 android:spinnerMode="dropdown"
-                android:background="#ff9999"/>
+                android:background="#aaaaaa"/>
         </LinearLayout>
     </LinearLayout>
 
