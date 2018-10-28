@@ -91,7 +91,7 @@
                 android:layout_height="48dp"
                 android:paddingRight="16dp"
                 android:spinnerMode="dropdown"
-                android:background="#aaaaaa"/>
+                android:background="#c7c7c7"/>
         </LinearLayout>
     </LinearLayout>
 
